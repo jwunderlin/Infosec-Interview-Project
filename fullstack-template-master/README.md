@@ -1,4 +1,4 @@
-# Fullstack evaluation template
+# Infosec Interview Project
 
 ## How to use
 The files included in this repository are here to get you started by giving
@@ -20,5 +20,5 @@ After starting the server go to:
 http://localhost:8765/index.html  
 ```
 
-If you setup the http server differently, please provide direction on how to start it
-in your submitted project's readme file.
+##Developer Notes
+I used php and React.js to create this app. You should be able to follow the instructions above to run it. 
