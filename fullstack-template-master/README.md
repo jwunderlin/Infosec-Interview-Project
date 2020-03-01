@@ -20,5 +20,5 @@ After starting the server go to:
 http://localhost:8765/index.html  
 ```
 
-##Developer Notes
+## Developer Notes
 I used php and React.js to create this app. You should be able to follow the instructions above to run it. 
